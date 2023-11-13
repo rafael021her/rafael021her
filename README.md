@@ -1,4 +1,4 @@
-### Boas Vindas ao Meu Perfil 💙
+### Boas Vindas ao Meu Perfil 💛
 
 Meu nome é Rafael Hernane de Lima
 
@@ -10,6 +10,8 @@ Meu nome é Rafael Hernane de Lima
 
 rafael.hernane.lima@escola.pr.gov.br
 
-@rafinha11___
+@rafinha11___ 📷
 
 ![](https://media.tenor.com/i4KsDhmhaZsAAAAC/real-madrid-bellingham.gif)
+
+![]()
